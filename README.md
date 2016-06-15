@@ -1,4 +1,4 @@
 # Local Searches
--Hill Climbing
--Hill Climbing with Random Restarts
--Stimulated Annealing
+1. Hill Climbing
+2. Hill Climbing with Random Restarts
+3. Stimulated Annealing
