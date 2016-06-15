@@ -1,1 +1,4 @@
-# CMSC471Project2
+# Local Searches
+-Hill Climbing
+-Hill Climbing with Random Restarts
+-Stimulated Annealing
